@@ -3,3 +3,5 @@ First line in file3
 Second line in file3
 
 Third line in file3
+
+Forth line in file3
