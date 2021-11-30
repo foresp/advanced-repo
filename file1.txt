@@ -5,3 +5,5 @@ Second line in file1
 Third line in file1
 
 Forth line in file1
+
+Fifth line in file1
