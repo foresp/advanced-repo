@@ -6,6 +6,4 @@ Third line in file3
 
 Forth line in file3
 
-Fifth line in file3
-
 Sixth line in file3
