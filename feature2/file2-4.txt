@@ -2,4 +2,4 @@ First line in file2-4
 
 Second line in file2-4
 
-Forth line in file2-4
+Third line in file2-4
