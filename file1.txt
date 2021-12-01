@@ -5,3 +5,7 @@ Forth line in file1
 Fifth and Sixth line in file1
 
 Nineth and Tenth line in file1
+
+Eleventh line in file1
+
+Twelwth line in file1
