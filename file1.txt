@@ -7,3 +7,5 @@ Fifth and Sixth line in file1
 Nineth and Tenth line in file1
 
 Eleventh line in file1Next line in file2
+
+Twelvth line in file1
