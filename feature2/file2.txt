@@ -2,8 +2,3 @@ First line in file2
 
 Second line in file2
 
-Forth line in file2
-
-Fifth line in file2
-
-Sixth line in file2
